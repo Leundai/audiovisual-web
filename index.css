@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: black !important;
+    color: white !important;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.group {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+canvas {
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 8px;
+}
