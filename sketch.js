@@ -70,7 +70,7 @@ function togglePlay() {
 function draw() {
   let spectrum = fft.analyze();
 
-  background(10);
+  background(12);
   calculateTerrain();
   drawTerrain();
   drawCircles(spectrum);
