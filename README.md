@@ -1,5 +1,5 @@
 # audiovisual-web
-## Vibing Audiovisual now ported to the web!
+## Vibing Audiovisual now ported to the web using p5js!
 
 # Credits For Provided Music:
 Music: Tobu - Nostalgia
